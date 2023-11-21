@@ -1,5 +1,5 @@
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=56&duration=3000&pause=3000&color=FF0000&center=true&multiline=true&random=false&width=1440&height=80&lines=Hi%2C+I'm+Wanushka+👋" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=56&duration=3000&pause=3000&color=FF0000&center=true&multiline=true&random=false&width=1440&height=80&lines=Hi%2C+I'm+Umeshan+👋" alt="Typing SVG" /></a>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=56&duration=3500&pause=2000&color=C0C0C0&center=true&multiline=true&random=false&width=1440&height=80&lines=I'm+Developer+and+Designer" alt="Typing SVG" /></a>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=56&duration=3200&pause=2000&color=077FFB&center=true&multiline=true&random=false&width=1440&height=80&lines=It%E2%80%99+I'm+the+Student+at+University+of+Moratuwa+%F0%9F%A4%A9" alt="Typing SVG" /></a>
 
