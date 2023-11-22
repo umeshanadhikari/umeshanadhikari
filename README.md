@@ -3,8 +3,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=56&duration=3500&pause=2000&color=C0C0C0&center=true&multiline=true&random=false&width=1440&height=80&lines=I'm+the+Student+at+University+of+Moratuwa" alt="Typing SVG" /></a>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=56&duration=3200&pause=2000&color=077FFB&center=true&multiline=true&random=false&width=1440&height=80&lines=It%E2%80%99s+great+to+meet+you!+%F0%9F%A4%A9" alt="Typing SVG" /></a>
 
-<img src="https://github.com/Ahzem/Ahzem/assets/123859613/1efabbfd-9f49-4eb7-bf31-d72d04af27ca"></div>
-
 ##  
 
 <table align="center">
@@ -13,7 +11,7 @@
             <table bgcolor="red" align="center">
                 <tr><td align="center"><p>🎨 UI/UX Design enthusiast 🎨</p></td></tr>
                 <tr><td align="center"><p>🐍 Python Programming aficionado 🐍</p></td></tr>
-                <tr><td align="center"><p>🚀 On a thrilling journey to master the art of creating user-friendly interfaces and writing powerful Python code. 💻</p></td></tr>
+                <tr><td align="center"><p>🚀 On a thrilling journey to master the art of creating user-friendly interfaces and writing Python code. 💻</p></td></tr>
                 <tr><td align="center"><p>💡 Insatiably curious and endlessly creative – I'm all about embracing the extraordinary! 🌟</p></td></tr>
                 <tr><td align="center"><p>🔮 Imagining new possibilities and making them come alive through sleek designs and smart algorithms. 🌈</p></td></tr>
                 <tr><td align="center"><p>🌟 Aspiring to be more than just a name on the internet – I want to be a brand that radiates uniqueness! 🚀</p></td></tr>
@@ -30,10 +28,10 @@
             <table align="center">
                 <tr>
                     <td align="center">
-                        <a href="https://github.com/ahzem?tab=followers" target="_blank"><img alt="Updates" src="https://img.shields.io/badge/--000000?style=flat-square&logo=RSS&logoColor=white"></a>
-                        <a href="https://github.com/ahzem" target="_blank"><img alt="ahzem" src="https://badges.pufler.dev/visits/ahzem/ahzem?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>
-                        <a href="https://github.com/ahzem/ahzem" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/ahzem/ahzem?label=profile%20updated&style=flat-square"></a>
-                        <a href="https://github.com/ahzem" target="_blank"><img alt="GitHub" src="https://img.shields.io/github/followers/Ahzem?label=Follow&style=social"></a>
+                        <a href="https://github.com/umeshanadhikari?tab=followers" target="_blank"><img alt="Updates" src="https://img.shields.io/badge/--000000?style=flat-square&logo=RSS&logoColor=white"></a>
+                        <a href="https://github.com/umeshanadhikari" target="_blank"><img alt="umeshanadhikari" src="https://badges.pufler.dev/visits/umeshanadhikari/umeshanadhikari?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>
+                        <a href="https://github.com/umeshanadhikari/umeshanadhikari" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/umeshanadhikari/umeshanadhikari?label=profile%20updated&style=flat-square"></a>
+                        <a href="https://github.com/umeshanadhikari" target="_blank"><img alt="GitHub" src="https://img.shields.io/github/followers/umeshanadhikari?label=Follow&style=social"></a>
                     </td>
                 </tr>
             </table>
@@ -48,7 +46,6 @@
     <table>
             <th>Database Tools</th>
             <th>Office Tools</th>
-            <th>Cloud Services</th>
             <th>Coding Languages</th>
             <th>Coding Tools</th>
             <th>Designing Tools</th>
@@ -64,19 +61,12 @@
                       <img src="https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white">
                       <img src="https://img.shields.io/badge/Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white">
                 </td>
-                <td>
-                      <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
-                      <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white">
-                      <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">
-                </td>
+                
                 <td>           
                       <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
                       <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
                       <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-                      <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-                      <img alt="HTML5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
-                      <img alt="CSS3" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
-                      <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+                      
                 </td>
                 <td>
                       <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
