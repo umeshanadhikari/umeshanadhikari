@@ -37,29 +37,7 @@
     </tr>
 </table>
 
-<br><br>
-<h1>Skills</h1>
 
-<div align="center">
-    <table>
-            <th>Database Tools</th>
-            <th>Office Tools</th>
-            <tr>
-                <td>
-                      <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
-                      <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-                      <img src="https://img.shields.io/badge/Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white">
-                </td>
-                <td>
-                      <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
-                      <img src="https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white">
-                      <img src="https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white">
-                      <img src="https://img.shields.io/badge/Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white">
-                </td>
-                
-                
-            </tr>
-    </table>
 </div>
 
 <br><br>
