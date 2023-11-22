@@ -34,7 +34,7 @@
                         <a href="https://github.com/umeshanadhikari" target="_blank"><img alt="GitHub" src="https://img.shields.io/github/followers/umeshanadhikari?label=Follow&style=social"></a>
                     </td>
             
-    </tr>
+
 </table>
 
 
