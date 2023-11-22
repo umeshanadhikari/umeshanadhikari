@@ -33,9 +33,7 @@
                         <a href="https://github.com/umeshanadhikari/umeshanadhikari" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/umeshanadhikari/umeshanadhikari?label=profile%20updated&style=flat-square"></a>
                         <a href="https://github.com/umeshanadhikari" target="_blank"><img alt="GitHub" src="https://img.shields.io/github/followers/umeshanadhikari?label=Follow&style=social"></a>
                     </td>
-                </tr>
-            </table>
-        </td>
+            
     </tr>
 </table>
 
